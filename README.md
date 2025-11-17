@@ -1,6 +1,5 @@
 # 👋 Hello World! I'm CRYPTO-LORD
-
-I'm a Computer Science student and front-end developer passionate about building clean, responsive, and user-friendly web applications. I enjoy coding, learning new technologies, and turning ideas into real projects.
+I am a Computer Science graduate and front-end developer with a strong passion for building clean, responsive, and user-friendly web applications. I enjoy writing efficient code, exploring new technologies, and transforming ideas into real, functional products.
 
 ## 💻 Tech Stack
 
@@ -25,6 +24,9 @@ A Fidelity bank project replicating fidelity’s website template flows to pract
 A clean, responsive, and modern blog template designed for simplicity and readability. Perfect for writers, developers, and creators who want to focus on content without distractions. Built with a minimalist design, fast performance, and easy customization in mind. 
 [View Repo](https://github.com/chukwunweikemichael/Minimal-Blog-Template)
 
+### *Pet-Safe house testing *
+A clean, responsive, and Pet Safe House provides direct care and services to help nearly 100,000 animals in need across Nigeria.
+[View Repo](https://github.com/chukwunweikemichael/Pet-Safe-House)
 ## 🌱 Currently Learning 
 - Javascript
 - React
