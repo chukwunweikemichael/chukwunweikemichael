@@ -13,19 +13,20 @@ I'm a Computer Science student and front-end developer passionate about building
 
 ## 🚀 Featured Projects
 
-### *Made4You E-commerce UI*
-A modern, responsive front-end showcasing Nigerian fashion. Built with HTML, CSS, Tailwind CSS, JavaScript, and Firebase Auth.  
-[View Repo](https://github.com/chukwunweikemichael/made4you-ecommerce-web.git)
+### *Salesforce clone work*
+Salesforce is a company that makes cloud-based software designed to help businesses find more prospects, close more deals, and wow customers with amazing.  
+[View Repo](https://github.com/chukwunweikemichael/Sales-Force)
 
-### *Moniepoint Transaction Clone*
-A JavaScript project replicating Moniepoint’s transaction flows to practice interactivity and front-end logic.  
-[View Repo](https://github.com/chukwunweikemichael/moniepoint-app.git)
+### *Fidelity Clone*
+A Fidelity bank project replicating fidelity’s website template flows to practice interactivity and front-end logic.  
+[View Repo](https://github.com/chukwunweikemichael/fidelity-bank)
 
-### *School Website*
-A responsive, SEO-optimized school website designed to improve communication and accessibility for students, teachers, and parents.  
-[View Repo](https://github.com/chukwunweikemichael/school-website)
+### *Minimal-Blog Template*
+A clean, responsive, and modern blog template designed for simplicity and readability. Perfect for writers, developers, and creators who want to focus on content without distractions. Built with a minimalist design, fast performance, and easy customization in mind. 
+[View Repo](https://github.com/chukwunweikemichael/Minimal-Blog-Template)
 
 ## 🌱 Currently Learning 
+- Javascript
 - React
 - MongoDB, ExpressJS, NodeJS
 
