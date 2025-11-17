@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello World! I'm CRYPTO-LORD
 
-<!--
-**chukwunweikemichael/chukwunweikemichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and front-end developer passionate about building clean, responsive, and user-friendly web applications. I enjoy coding, learning new technologies, and turning ideas into real projects.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-FF6F61?style=for-the-badge&logo=google&logoColor=white)
+
+## 🚀 Featured Projects
+
+### *Made4You E-commerce UI*
+A modern, responsive front-end showcasing Nigerian fashion. Built with HTML, CSS, Tailwind CSS, JavaScript, and Firebase Auth.  
+[View Repo](https://github.com/chukwunweikemichael/made4you-ecommerce-web.git)
+
+### *Moniepoint Transaction Clone*
+A JavaScript project replicating Moniepoint’s transaction flows to practice interactivity and front-end logic.  
+[View Repo](https://github.com/chukwunweikemichael/moniepoint-app.git)
+
+### *School Website*
+A responsive, SEO-optimized school website designed to improve communication and accessibility for students, teachers, and parents.  
+[View Repo](https://github.com/chukwunweikemichael/school-website)
+
+## 🌱 Currently Learning 
+- React
+- MongoDB, ExpressJS, NodeJS
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwunweike-michael-a90840396/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://themannverse.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chukwunweikemichael)
+
+## 📊 GitHub Stats
+
+![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chukwunweikemichael&show_icons=true&theme=radical)
