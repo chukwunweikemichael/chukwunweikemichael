@@ -39,4 +39,4 @@ A clean, responsive, and Pet Safe House provides direct care and services to hel
 
 ## 📊 GitHub Stats
 
-![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chukwunweikemichael&show_icons=true&theme=radical)
+![Crypto-Lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=chukwunweikemichael&show_icons=true&theme=radical)
