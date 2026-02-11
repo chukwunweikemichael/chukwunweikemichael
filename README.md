@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm CRYPTO-LORD
+# 👋 Hello World! I'm Chukwunweike Michael
 I am a Computer Science graduate and front-end developer with a strong passion for building clean, responsive, and user-friendly web applications. I enjoy writing efficient code, exploring new technologies, and transforming ideas into real, functional products.
 
 ## 💻 Tech Stack
