@@ -9,6 +9,8 @@ I am a Computer Science graduate and front-end developer with a strong passion f
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-FF6F61?style=for-the-badge&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ## 🚀 Featured Projects
 
